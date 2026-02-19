@@ -1,3 +1,4 @@
+<!-- 
 (function () {
 
   // Check if already shown
@@ -93,3 +94,4 @@
   localStorage.setItem("abdullah_popup_shown", "yes");
 
 })();
+ -->
