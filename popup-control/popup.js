@@ -70,7 +70,7 @@
       <p>Download New Version 3.9</p>
 
       <a href="https://link.abdullahcoded.site/M00V56" target="_blank">
-        <button>Join Now</button>
+        <button>Download Now</button>
       </a>
 
       <br>
