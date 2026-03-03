@@ -67,7 +67,7 @@
 
       <h2>Update Theme</h2>
 
-      <p>Download New Version 3.9</p>
+      <p>Download New Version 3.0.9</p>
 
       <a href="https://link.abdullahcoded.site/ItlJpZ" target="_blank">
         <button>Download Now</button>
