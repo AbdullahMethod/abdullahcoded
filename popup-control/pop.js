@@ -69,7 +69,7 @@
 
       <p>Download New Version 3.9</p>
 
-      <a href="https://link.abdullahcoded.site/M00V56" target="_blank">
+      <a href="https://link.abdullahcoded.site/ItlJpZ" target="_blank">
         <button>Download Now</button>
       </a>
 
